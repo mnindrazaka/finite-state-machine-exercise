@@ -1,0 +1,23 @@
+{
+  "name": "finite-state-machine-exercise",
+  "version": "1.0.0",
+  "description": "finite state machine exercise code from egghead course Introduction to State Machines Using XState",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/finite-state-machine-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/finite-state-machine-exercise/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/finite-state-machine-exercise#readme",
+  "dependencies": {
+    "xstate": "^4.23.4"
+  }
+}
